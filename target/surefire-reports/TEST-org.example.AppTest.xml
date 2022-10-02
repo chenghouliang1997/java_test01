@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="org.example.AppTest" time="0.044" tests="1" errors="0" skipped="0" failures="0">
+  <properties>
+    <property name="java.specification.version" value="17"/>
+    <property name="sun.cpu.isalist" value="amd64"/>
+    <property name="sun.jnu.encoding" value="GBK"/>
+    <property name="java.class.path" value="D:\code\javasepromax\avasepromax\maven-demo\target\test-classes;D:\code\javasepromax\avasepromax\maven-demo\target\classes;D:\software\apache-maven-3.8.6\mvn_resp\junit\junit\4.11\junit-4.11.jar;D:\software\apache-maven-3.8.6\mvn_resp\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar;D:\software\apache-maven-3.8.6\mvn_resp\mysql\mysql-connector-java\5.1.34\mysql-connector-java-5.1.34.jar;D:\software\apache-maven-3.8.6\mvn_resp\com\alibaba\druid\1.1.12\druid-1.1.12.jar;"/>
+    <property name="java.vm.vendor" value="Oracle Corporation"/>
+    <property name="sun.arch.data.model" value="64"/>
+    <property name="user.variant" value=""/>
+    <property name="java.vendor.url" value="https://java.oracle.com/"/>
+    <property name="user.timezone" value="Asia/Shanghai"/>
+    <property name="os.name" value="Windows 11"/>
+    <property name="java.vm.specification.version" value="17"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="user.country" value="CN"/>
+    <property name="sun.boot.library.path" value="D:\soft\Java\jdk-17.0.3.1\bin"/>
+    <property name="sun.java.command" value="C:\Users\chl\AppData\Local\Temp\surefire9567576434608400231\surefirebooter3122871724258530893.jar C:\Users\chl\AppData\Local\Temp\surefire9567576434608400231 2022-08-24T15-05-10_323-jvmRun1 surefire18233089376424117796tmp surefire_04663372827786720068tmp"/>
+    <property name="jdk.debug" value="release"/>
+    <property name="surefire.test.class.path" value="D:\code\javasepromax\avasepromax\maven-demo\target\test-classes;D:\code\javasepromax\avasepromax\maven-demo\target\classes;D:\software\apache-maven-3.8.6\mvn_resp\junit\junit\4.11\junit-4.11.jar;D:\software\apache-maven-3.8.6\mvn_resp\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar;D:\software\apache-maven-3.8.6\mvn_resp\mysql\mysql-connector-java\5.1.34\mysql-connector-java-5.1.34.jar;D:\software\apache-maven-3.8.6\mvn_resp\com\alibaba\druid\1.1.12\druid-1.1.12.jar;"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="user.home" value="C:\Users\chl"/>
+    <property name="user.language" value="zh"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.version.date" value="2022-04-22"/>
+    <property name="java.home" value="D:\soft\Java\jdk-17.0.3.1"/>
+    <property name="file.separator" value="\"/>
+    <property name="basedir" value="D:\code\javasepromax\avasepromax\maven-demo"/>
+    <property name="java.vm.compressedOopsMode" value="Zero based"/>
+    <property name="line.separator" value="&#10;"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="surefire.real.class.path" value="C:\Users\chl\AppData\Local\Temp\surefire9567576434608400231\surefirebooter3122871724258530893.jar"/>
+    <property name="user.script" value=""/>
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+    <property name="java.runtime.version" value="17.0.3.1+2-LTS-6"/>
+    <property name="user.name" value="chl"/>
+    <property name="path.separator" value=";"/>
+    <property name="os.version" value="10.0"/>
+    <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
+    <property name="file.encoding" value="GBK"/>
+    <property name="java.vm.name" value="Java HotSpot(TM) 64-Bit Server VM"/>
+    <property name="localRepository" value="D:\software\apache-maven-3.8.6\mvn_resp"/>
+    <property name="java.vendor.url.bug" value="https://bugreport.java.com/bugreport/"/>
+    <property name="java.io.tmpdir" value="C:\Users\chl\AppData\Local\Temp\"/>
+    <property name="idea.version" value="2022.1.3"/>
+    <property name="java.version" value="17.0.3.1"/>
+    <property name="user.dir" value="D:\code\javasepromax\avasepromax\maven-demo"/>
+    <property name="os.arch" value="amd64"/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="sun.os.patch.level" value=""/>
+    <property name="native.encoding" value="GBK"/>
+    <property name="java.library.path" value="D:\soft\Java\jdk-17.0.3.1\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\VMware\VMware Workstation\bin\;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\Users\chl\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.9_qbz5n2kfra8p0\LocalCache\local-packages\Python39\Scripts;C:\Users\chl\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.9_qbz5n2kfra8p0\LocalCache\local-packages\Python39;C:\Users\chl\AppData\Roaming\Python\Python310\Scripts;C:\Users\chl\AppData\Local\Programs\Python\Python39;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;D:\Git\cmd;D:\soft\Java\jdk-17.0.3.1\bin;D:\software\mysql-5.7.24-winx64\bin;D:\software\apache-maven-3.8.6\bin;C:\Users\chl\AppData\Local\Programs\Python\Python39\Scripts\;C:\Users\chl\AppData\Local\Programs\Python\Python39\;C:\Users\chl\AppData\Local\Microsoft\WindowsApps;D:\Microsoft VS Code\bin;D:\Anaconda;D:\Anaconda\Scripts;D:\Anaconda\Library\mingw-w64\bin;D:\Anaconda\Library\usr\bin;D:\Anaconda\Library\bin;C:\Users\chl\AppData\Roaming\Python\Python310\Scripts;C:\Users\chl\AppData\Local\Programs\Python\Python39;D:\Bin;D:\soft\Java\jdk-17.0.3.1\bin;;."/>
+    <property name="java.vm.info" value="mixed mode, sharing"/>
+    <property name="java.vendor" value="Oracle Corporation"/>
+    <property name="java.vm.version" value="17.0.3.1+2-LTS-6"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
+    <property name="java.class.version" value="61.0"/>
+  </properties>
+  <testcase name="shouldAnswerWithTrue" classname="org.example.AppTest" time="0.002"/>
+</testsuite>
